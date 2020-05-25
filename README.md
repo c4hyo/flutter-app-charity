@@ -1,16 +1,11 @@
-# charity_app_new
+# App Charity
 
-A new Flutter project.
+Sebuah Aplikasi latihan yang isinya menampilkan posting dan event.
 
-## Getting Started
+## ScreenShot
 
-This project is a starting point for a Flutter application.
+![Screenshot Event](./ss.jpg "Screenshot Event")
 
-A few resources to get you started if this is your first Flutter project:
+## My Portofolio
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Portofolio ](http://mdcnugroho.xyz)
